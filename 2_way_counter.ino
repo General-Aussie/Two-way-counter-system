@@ -7,7 +7,7 @@ int TRIG_OUT = 3;
 int ECHO_IN = A2;
 int ECHO_OUT = 4;
 int LED_WAIT = 12;
-int LED_ENTER = 9;
+int LED_ENTER = 9; 
 
 #define iterations 2 //Number of readings in the calibration stage
 #define MAX_DISTANCE 150 // Maximum distance (in cm) for the sensors to try to read.
